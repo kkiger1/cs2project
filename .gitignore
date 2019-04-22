@@ -21,3 +21,7 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+cs2project.vcxproj.user
+cs2project.vcxproj
+graphLib2017.lib
+*.filters
